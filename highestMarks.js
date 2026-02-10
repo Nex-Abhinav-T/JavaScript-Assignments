@@ -3,8 +3,8 @@ const input={
   B:[70,75,85]
 };
 
-let highestAvg=-Infiity;
-let topStudent ="";
+let highestAvg=-Infinity;
+let topsStudent ="";
 
 const students=Object.keys(input);
 
